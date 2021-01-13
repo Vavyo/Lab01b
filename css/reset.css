@@ -1,0 +1,4 @@
+body { background-color: rebeccapurple;}
+div  { height: 300px; width: 350px; background-color: seagreen; }
+section  { height: 300px; width: 350px; background-color: rgb(64, 241, 141); }
+footer  { height: 100px; width: 100%; background-color: rgb(188, 241, 64); }
